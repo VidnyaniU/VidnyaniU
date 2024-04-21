@@ -1,7 +1,6 @@
-![MasterHead](./github-header-image(1).png)
-<h1 align="center">Hi 👋, I'm Vidnyani Umathe</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/garfield-typing-garfield-gif-19895163">
+![MasterHead](file:///home/vidnyani/Downloads/github-header-image.png)
+
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/garfield-typing-garfield-gif-19895163](https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif)">
 
 - 🔭 I’m currently working on [a research project.](https://github.com/VidnyaniU/Containment)
 
