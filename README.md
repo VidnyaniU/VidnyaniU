@@ -1,21 +1,21 @@
-![Header](./gihtub-header-image.png)
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/garfield-typing-garfield-gif-19895163](https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif)">
+<h1 align="center">Hi 👋, I'm Vidnyani Umathe</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on [a research project.](https://github.com/VidnyaniU/Containment)
 
-- 🌱 I’m currently learning **parallel programming with MPI,CUDA and ML.**
+- 🌱 I’m currently learning **parallel programming with MPI and CUDA.**
 
 - 📝 I regularly write articles on [https://medium.com/@vidnyaniumathe10](https://medium.com/@vidnyaniumathe10)
 
 - 📫 How to reach me **vidnyaniumathe10@gmail.com**
 
-
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vidnyani-umathe-0472931ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidnyani-umathe-0472931ba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vidnyani umathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidnyani umathe" height="30" width="40" /></a>
 <a href="https://medium.com/@vidnyaniumathe10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vidnyaniumathe10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/vidnyani_umathe10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vidnyani_umathe10/" height="30" width="40" /></a>
 </p>
