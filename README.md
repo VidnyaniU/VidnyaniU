@@ -1,5 +1,4 @@
-![MasterHead](file:///home/vidnyani/Downloads/github-header-image.png)
-
+![Header](./gihtub-header-image.png)
 <img align="right" alt="Coding" width="400" src="[https://tenor.com/view/garfield-typing-garfield-gif-19895163](https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif)">
 
 - 🔭 I’m currently working on [a research project.](https://github.com/VidnyaniU/Containment)
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **vidnyaniumathe10@gmail.com**
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
