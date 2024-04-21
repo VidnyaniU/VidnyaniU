@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidnyani Umathe</h1>
 <h3 align="center">A Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif">
 
 - 🔭 I’m currently working on [a research project.](https://github.com/VidnyaniU/Containment)
 
@@ -10,13 +10,11 @@
 
 - 📫 How to reach me **vidnyaniumathe10@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vidnyani-umathe-0472931ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidnyani-umathe-0472931ba" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vidnyani-umathe-0472931ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidnyani-umathe-0472931ba" height="30" width="40" /></a>
 <a href="https://medium.com/@vidnyaniumathe10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vidnyaniumathe10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/vidnyani_umathe10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vidnyani_umathe10/" height="30" width="40" /></a>
 </p>
