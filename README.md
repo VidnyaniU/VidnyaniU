@@ -2,13 +2,13 @@
 <!---
 <h1 align="center">Hi 👋, I'm Vidnyani Umathe</h1>
 <h3 align="center">A Software developer from India</h3> --->
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif">
 
 - 🔭 I’m currently working on [a research project.](https://github.com/VidnyaniU/Containment)
 
 - 🌱 I’m currently learning **parallel programming with MPI and CUDA.**
 
-- 📝 I regularly write articles on [https://medium.com/@vidnyaniumathe10](https://medium.com/@vidnyaniumathe10)
+- 📝 I write articles on [https://medium.com/@vidnyaniumathe10](https://medium.com/@vidnyaniumathe10)
 
 - 📫 How to reach me **vidnyaniumathe10@gmail.com**
 
