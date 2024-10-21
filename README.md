@@ -9,7 +9,7 @@
 
 <!--- 🔭 I’m currently working on [a research project.](https://github.com/VidnyaniU/Containment)--->
 
-- 🌱 I’m currently learning **cybersecurity**
+<!--- 🌱 I’m currently learning **cybersecurity**-->
 
 - 📝 I write articles on [https://medium.com/@vidnyaniumathe10](https://medium.com/@vidnyaniumathe10)
 
